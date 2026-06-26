@@ -2168,12 +2168,40 @@
 		(uuid "eff78230-9019-4a2f-8dba-44e998e012e0")
 	)
 	(no_connect
+		(at 143.51 38.1)
+		(uuid "06d17ce8-f688-4c58-959a-f75e1a70ba50")
+	)
+	(no_connect
+		(at 143.51 45.72)
+		(uuid "1cef6828-39d3-4726-8459-9fd29484fc93")
+	)
+	(no_connect
+		(at 96.52 34.29)
+		(uuid "23b9629f-1784-4d73-a104-72718fc2c796")
+	)
+	(no_connect
+		(at 143.51 41.91)
+		(uuid "4bc00524-bfbb-45ac-89c4-6e3b963be658")
+	)
+	(no_connect
 		(at 149.86 81.28)
 		(uuid "70d2c960-c4dd-4306-94b3-9da367fbb5ad")
 	)
 	(no_connect
 		(at 149.86 88.9)
 		(uuid "9e4ccff9-6b61-417c-ab80-8075c2473a29")
+	)
+	(no_connect
+		(at 143.51 34.29)
+		(uuid "ac06ee94-8333-4436-8c64-6e7246a7fd7c")
+	)
+	(no_connect
+		(at 96.52 41.91)
+		(uuid "ad87b97e-2df3-4cdb-b0d3-68b8916714b6")
+	)
+	(no_connect
+		(at 96.52 45.72)
+		(uuid "ed0d4cf3-406e-4f0b-8df2-04e871ec1ea6")
 	)
 	(no_connect
 		(at 88.9 86.36)
@@ -2218,6 +2246,16 @@
 			(type default)
 		)
 		(uuid "149bf5c0-34ac-4dfd-80ed-cbe2715ef86b")
+	)
+	(wire
+		(pts
+			(xy 92.71 30.48) (xy 96.52 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18a9acc7-50d9-4cad-b29d-8a4d137a65ac")
 	)
 	(wire
 		(pts
@@ -2328,16 +2366,6 @@
 			(type default)
 		)
 		(uuid "4fc95733-a969-4323-86c7-9076d19b4da7")
-	)
-	(wire
-		(pts
-			(xy 92.71 26.67) (xy 96.52 26.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "56a1e5c7-12a2-42d0-9bcd-6fc99831008d")
 	)
 	(wire
 		(pts
@@ -2541,16 +2569,6 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 30.48) (xy 96.52 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d1a8ade1-1441-4cc1-8616-ea02570ab112")
-	)
-	(wire
-		(pts
 			(xy 154.94 78.74) (xy 154.94 81.28)
 		)
 		(stroke
@@ -2578,6 +2596,16 @@
 			(type default)
 		)
 		(uuid "e1b56759-3a12-4cf1-b38d-fba3fb302a65")
+	)
+	(wire
+		(pts
+			(xy 92.71 26.67) (xy 96.52 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3929a95-4a77-4a50-b4c8-f2b81308f885")
 	)
 	(wire
 		(pts
@@ -2675,7 +2703,7 @@
 	)
 	(global_label "DATA"
 		(shape input)
-		(at 92.71 30.48 180)
+		(at 92.71 26.67 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2685,7 +2713,7 @@
 		)
 		(uuid "09b7bd8c-4071-456f-99dd-6cb3e44dc4ec")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 85.31 30.48 0)
+			(at 85.31 26.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2699,7 +2727,7 @@
 	)
 	(global_label "BCLK"
 		(shape input)
-		(at 92.71 26.67 180)
+		(at 92.71 30.48 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2709,7 +2737,7 @@
 		)
 		(uuid "29bfb0eb-ddbb-462d-87b3-1f4b7b3ff2f1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 84.8867 26.67 0)
+			(at 84.8867 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3159,7 +3187,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
 			(at 166.37 30.7848 0)
 			(hide yes)
 			(show_name no)
@@ -3238,7 +3266,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
 			(at 166.37 20.6248 0)
 			(hide yes)
 			(show_name no)
@@ -3553,7 +3581,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm"
 			(at 159.7152 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -3727,7 +3755,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N14"
+		(property "Footprint" "sn74ahct125n:N14"
 			(at 88.9 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -3845,7 +3873,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Seeed_Studio_XIAO_Series:XIAO-ESP32-S3-DIP"
+		(property "Footprint" "Seeed Studio XIAO Series Library:XIAO-ESP32-S3-DIP"
 			(at 116.078 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -4037,7 +4065,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
 			(at 82.55 76.962 90)
 			(hide yes)
 			(show_name no)

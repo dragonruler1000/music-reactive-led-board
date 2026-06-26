@@ -52,8 +52,8 @@
         "zones": {
           "border_display_style": 2,
           "border_hatch_pitch": 0.5,
-          "corner_radius": 0.0,
-          "corner_smoothing": 0,
+          "corner_radius": 3.0,
+          "corner_smoothing": 2,
           "fill_mode": 0,
           "hatch_gap": 1.5,
           "hatch_orientation": 0.0,
@@ -70,7 +70,20 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "silk_edge_clearance|54806731|32480000|255fd553-f83f-48ab-9512-2fc2a893d252|aba83f6b-c89d-4cde-a8c4-a1a1e9d7a086",
+          "just saying where the usb-c port is"
+        ],
+        [
+          "silk_edge_clearance|63804000|32480000|255fd553-f83f-48ab-9512-2fc2a893d252|ddbf0eac-cca8-4039-a89d-1fe88218be78",
+          "just saying where the usb-c port is"
+        ],
+        [
+          "silk_overlap|50650952|59105595|410519be-d94e-46b9-bebd-ec418da63066|4a247540-4fa9-45aa-9520-e0da0cffb5cf",
+          "says where pin 1 is"
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -661,7 +674,7 @@
         "uuid": "15de3414-b314-4772-b9f5-9920928f283a"
       }
     ],
-    "used_designators": "MK1,C1-3,R1,U2,#PWR1-10",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
