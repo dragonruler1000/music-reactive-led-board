@@ -1,0 +1,4 @@
+Seeed Studio XIAO ESP32S3 Sense 3D Model by seeedstudio on Thingiverse: https://www.thingiverse.com/thing:6855424
+
+Summary:
+The 3D Model for Seeed Studio XIAO ESP32S3 Sense. Seeed Studio XIAO ESP32S3 Sense is an mini-size MCU-based vision AI camera and microphone dev board, featuring ESP32-S3 32-bit, dual-core, Xtensa processor with integrated Wi-Fi®/Bluetooth® LE connectivity. With TensorFlow and PyTorch frameworks supported, and compatibility with  Arduino IDE, MicroPython, it's a developer friendly tool for your machine learning projects. Leverage the no-code model training and deployment platform SenseCraft Ai to build your wireless vision ai sensor that detects multi-scenes.Explore more: https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.htmlMore about Seeed Studio XIAO: https://www.seeedstudio.com/xiao-series-page

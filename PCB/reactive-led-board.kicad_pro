@@ -80,8 +80,64 @@
           "just saying where the usb-c port is"
         ],
         [
-          "silk_overlap|50650952|59105595|410519be-d94e-46b9-bebd-ec418da63066|4a247540-4fa9-45aa-9520-e0da0cffb5cf",
-          "says where pin 1 is"
+          "silk_over_copper|50410000|35260400|04062594-b2a6-4d81-a467-bad5172117f4|97b2aa5a-b016-4aed-96ba-67e6ec7902e8",
+          "doesn't mater"
+        ],
+        [
+          "silk_over_copper|50410000|39019600|04062594-b2a6-4d81-a467-bad5172117f4|adaff01a-a98f-4f18-a713-b72c6a08e309",
+          "doesn't mater"
+        ],
+        [
+          "silk_over_copper|50410000|40340400|04062594-b2a6-4d81-a467-bad5172117f4|04b89ce1-2df6-4045-898e-d964ba9e653d",
+          "doesn't mater"
+        ],
+        [
+          "silk_over_copper|50410000|44099600|04062594-b2a6-4d81-a467-bad5172117f4|fabfad24-ac10-4684-b48b-a17e82a7d30b",
+          "doesn't mater"
+        ],
+        [
+          "silk_over_copper|50410000|45420400|04062594-b2a6-4d81-a467-bad5172117f4|6ec7b41e-81c3-4306-b3bf-093c665dbf9b",
+          "doesn't mater"
+        ],
+        [
+          "silk_over_copper|50410000|49179600|04062594-b2a6-4d81-a467-bad5172117f4|6a152751-c0d1-4c09-9fab-a34f1458d14d",
+          "doesn't mater"
+        ],
+        [
+          "silk_over_copper|50410000|51719600|04062594-b2a6-4d81-a467-bad5172117f4|42aea5a1-c2b4-49e3-9803-51b92560645f",
+          "doesn't mater"
+        ],
+        [
+          "silk_over_copper|68190000|36479600|7fc98b87-291e-4b1e-baaa-f3a0729aad55|8c6db72d-0af3-484b-b92f-9be9c4e1a2bc",
+          "doesn't mater"
+        ],
+        [
+          "silk_over_copper|68190000|39019600|7fc98b87-291e-4b1e-baaa-f3a0729aad55|83d4e41f-83dc-4041-8e2d-94608b4bd56c",
+          "doesn't mater"
+        ],
+        [
+          "silk_over_copper|68190000|41559600|7fc98b87-291e-4b1e-baaa-f3a0729aad55|dc59b2c1-6238-4e3f-ae17-7cd6f2819de5",
+          "doesn't mater"
+        ],
+        [
+          "silk_over_copper|68190000|44099600|7fc98b87-291e-4b1e-baaa-f3a0729aad55|9bab2a9b-e07d-420e-a138-802fe1607a8d",
+          "doesn't mater"
+        ],
+        [
+          "silk_over_copper|68190000|46639600|7fc98b87-291e-4b1e-baaa-f3a0729aad55|45117f1a-e8bd-4138-a9bd-03493e29d768",
+          ""
+        ],
+        [
+          "silk_over_copper|68190000|49179600|7fc98b87-291e-4b1e-baaa-f3a0729aad55|9e8079e7-6dc9-4127-b155-3c10a383053a",
+          "doesn't mater"
+        ],
+        [
+          "silk_over_copper|68190000|51719600|7fc98b87-291e-4b1e-baaa-f3a0729aad55|2d5db0d6-745a-4e37-8128-8bc6a5a7290b",
+          "doesn't mater"
+        ],
+        [
+          "silk_overlap|63540000|59544166|410519be-d94e-46b9-bebd-ec418da63066|4a247540-4fa9-45aa-9520-e0da0cffb5cf",
+          "doesn't mater"
         ]
       ],
       "meta": {
